@@ -1,0 +1,22 @@
+body
+{
+text-align:center;
+background-color:#f0e8c5;
+}
+.image-section
+{
+display:flex;
+justify-content:center;
+background-color:white;  
+}
+.section-style
+{
+margin-right:25px;
+margin-left:25px;
+background-color:white;
+}
+img
+{
+    text-align: center;
+    font-size: 40px;
+}
